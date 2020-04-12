@@ -1,0 +1,24 @@
+html {
+  background-color: pink;
+}
+
+button {
+  width: 100px;
+  height: 30px;
+  background-color: aqua;
+  font-weight: bold;
+  margin: 10px;
+}
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.higher {
+  background-color: lightgreen;
+}
+
+.lower {
+  background-color: magenta;
+}
